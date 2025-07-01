@@ -3,5 +3,5 @@ pandas
 matplotlib.pyplot
 seaborn
 missingno
-scikit-learn
+sklearn
 scipy
